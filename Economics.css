@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    background-color: honeydew;
+}
+
+h1 {
+    display: flex;
+    font-family: sans-serif;
+    background-color: seagreen;
+    justify-content: center;
+    color: white;
+    font-size: 3em;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+.intro {
+    justify-content: center;
+    display: flex;
+}
+
+.economist {
+    text-align: center;
+    padding-top: 3%;
+    max-width: 30%;
+    float: left;
+}
+
+.economistimg {
+    max-width: 100%;
+    max-height: 100%;   
+}
+.economenpanel {
+    text-align: center;
+    padding-top: 3%;
+    max-width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+
+.economenpanelimg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.UndercoverEconomist {
+    text-align: center;
+    padding-top: 3%;
+    max-width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+
+.economistimg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.sources {
+    display: flex;
+    justify-content: center;
+}

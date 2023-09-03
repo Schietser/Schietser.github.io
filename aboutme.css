@@ -1,0 +1,38 @@
+h1 {
+    font-family: sans-serif;
+    background-color: seagreen;
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: honeydew;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+.text {
+    padding-top: 3%;
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+}
+
+.picture {
+    padding-top: 3%;
+    float: right;
+    width: 40%;
+    padding-right: 5%;
+}
+
+img {
+    max-width: 90%;
+    max-height: 90%;
+    position: absolute;
+}
